@@ -6,6 +6,7 @@ on:
     branches:
       - 'master'
       - 'Stable*'
+      - 'v4.4.5-gstreamer-1.16.3'
     tags:
       - 'v*'
     paths-ignore:
